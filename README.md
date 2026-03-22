@@ -1,0 +1,1 @@
+Used SOTA counting logic (RepNet) applied to a counting push ups task (Mediapipe for pose estimation and RepNet logic applied to the extracted pose vectors). Model is fast to train and achieves good performance.
